@@ -1,0 +1,6 @@
+{
+  "Domains": [{
+    "Host": "www.my-domain.go",
+    "Target": "https://www.google.com"
+  }]
+}
